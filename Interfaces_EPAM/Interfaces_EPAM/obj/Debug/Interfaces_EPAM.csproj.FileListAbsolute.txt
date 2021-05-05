@@ -1,0 +1,7 @@
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\bin\Debug\Interfaces_EPAM.exe.config
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\bin\Debug\Interfaces_EPAM.exe
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\bin\Debug\Interfaces_EPAM.pdb
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\obj\Debug\Interfaces_EPAM.csprojAssemblyReference.cache
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\obj\Debug\Interfaces_EPAM.csproj.CoreCompileInputs.cache
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\obj\Debug\Interfaces_EPAM.exe
+C:\LAB\Interfaces_EPAM\Interfaces_EPAM\obj\Debug\Interfaces_EPAM.pdb

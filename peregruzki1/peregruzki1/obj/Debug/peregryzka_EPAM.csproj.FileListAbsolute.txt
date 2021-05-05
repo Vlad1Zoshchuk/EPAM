@@ -1,0 +1,7 @@
+C:\LAB\peregruzki1\peregruzki1\bin\Debug\peregruzki1.exe.config
+C:\LAB\peregruzki1\peregruzki1\bin\Debug\peregruzki1.exe
+C:\LAB\peregruzki1\peregruzki1\bin\Debug\peregruzki1.pdb
+C:\LAB\peregruzki1\peregruzki1\obj\Debug\peregryzka_EPAM.csprojAssemblyReference.cache
+C:\LAB\peregruzki1\peregruzki1\obj\Debug\peregryzka_EPAM.csproj.CoreCompileInputs.cache
+C:\LAB\peregruzki1\peregruzki1\obj\Debug\peregruzki1.exe
+C:\LAB\peregruzki1\peregruzki1\obj\Debug\peregruzki1.pdb

@@ -1,0 +1,7 @@
+C:\LAB\stroki_epam\stroki_epam\bin\Debug\stroki_epam.exe.config
+C:\LAB\stroki_epam\stroki_epam\bin\Debug\stroki_epam.exe
+C:\LAB\stroki_epam\stroki_epam\bin\Debug\stroki_epam.pdb
+C:\LAB\stroki_epam\stroki_epam\obj\Debug\stroki_epam.csprojAssemblyReference.cache
+C:\LAB\stroki_epam\stroki_epam\obj\Debug\stroki_epam.csproj.CoreCompileInputs.cache
+C:\LAB\stroki_epam\stroki_epam\obj\Debug\stroki_epam.exe
+C:\LAB\stroki_epam\stroki_epam\obj\Debug\stroki_epam.pdb

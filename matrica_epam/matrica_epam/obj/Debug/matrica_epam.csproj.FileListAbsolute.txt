@@ -1,0 +1,7 @@
+C:\LAB\matrica_epam\matrica_epam\obj\Debug\matrica_epam.csprojAssemblyReference.cache
+C:\LAB\matrica_epam\matrica_epam\obj\Debug\matrica_epam.csproj.CoreCompileInputs.cache
+C:\LAB\matrica_epam\matrica_epam\bin\Debug\matrica_epam.exe.config
+C:\LAB\matrica_epam\matrica_epam\bin\Debug\matrica_epam.exe
+C:\LAB\matrica_epam\matrica_epam\bin\Debug\matrica_epam.pdb
+C:\LAB\matrica_epam\matrica_epam\obj\Debug\matrica_epam.exe
+C:\LAB\matrica_epam\matrica_epam\obj\Debug\matrica_epam.pdb

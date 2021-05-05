@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stroki_epam", "stroki_epam\stroki_epam.csproj", "{06122A61-DEA0-491F-91DC-2CD76270F241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06122A61-DEA0-491F-91DC-2CD76270F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06122A61-DEA0-491F-91DC-2CD76270F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06122A61-DEA0-491F-91DC-2CD76270F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06122A61-DEA0-491F-91DC-2CD76270F241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B08785-121C-4CC5-B792-48DB4B2BF2C6}
+	EndGlobalSection
+EndGlobal

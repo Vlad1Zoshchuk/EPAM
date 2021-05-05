@@ -1,0 +1,7 @@
+C:\LAB\vectors1\vectors1\bin\Debug\vectors1.exe.config
+C:\LAB\vectors1\vectors1\bin\Debug\vectors1.exe
+C:\LAB\vectors1\vectors1\bin\Debug\vectors1.pdb
+C:\LAB\vectors1\vectors1\obj\Debug\vectors1.csprojAssemblyReference.cache
+C:\LAB\vectors1\vectors1\obj\Debug\vectors1.csproj.CoreCompileInputs.cache
+C:\LAB\vectors1\vectors1\obj\Debug\vectors1.exe
+C:\LAB\vectors1\vectors1\obj\Debug\vectors1.pdb
