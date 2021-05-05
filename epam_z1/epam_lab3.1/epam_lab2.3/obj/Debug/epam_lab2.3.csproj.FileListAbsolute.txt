@@ -1,0 +1,14 @@
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\obj\Debug\epam_lab2.3.csprojAssemblyReference.cache
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\obj\Debug\epam_lab2.3.csproj.CoreCompileInputs.cache
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\bin\Debug\epam_lab2.3.exe.config
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\bin\Debug\epam_lab2.3.exe
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\bin\Debug\epam_lab2.3.pdb
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\obj\Debug\epam_lab2.3.exe
+C:\Users\vladosik\source\repos\epam_lab2.3\epam_lab2.3\obj\Debug\epam_lab2.3.pdb
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\obj\Debug\epam_lab2.3.csprojAssemblyReference.cache
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\obj\Debug\epam_lab2.3.csproj.CoreCompileInputs.cache
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\obj\Debug\epam_lab2.3.exe
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\obj\Debug\epam_lab2.3.pdb
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\bin\Debug\epam_lab2.3.exe.config
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\bin\Debug\epam_lab2.3.exe
+C:\LAB\TEMA3\epam_lab3.1\epam_lab2.3\bin\Debug\epam_lab2.3.pdb

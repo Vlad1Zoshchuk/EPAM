@@ -1,0 +1,7 @@
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\bin\Debug\epam_lab1.3.exe.config
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\bin\Debug\epam_lab1.3.exe
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\bin\Debug\epam_lab1.3.pdb
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\obj\Debug\epam_lab1.3.csprojAssemblyReference.cache
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\obj\Debug\epam_lab1.3.csproj.CoreCompileInputs.cache
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\obj\Debug\epam_lab1.3.exe
+C:\LAB\TEMA1\epam_lab1.3\epam_lab1.3\obj\Debug\epam_lab1.3.pdb

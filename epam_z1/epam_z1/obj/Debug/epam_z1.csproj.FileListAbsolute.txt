@@ -1,0 +1,14 @@
+C:\LAB\epam_z1\epam_z1\bin\Debug\epam_z1.exe.config
+C:\LAB\epam_z1\epam_z1\bin\Debug\epam_z1.exe
+C:\LAB\epam_z1\epam_z1\bin\Debug\epam_z1.pdb
+C:\LAB\epam_z1\epam_z1\obj\Debug\epam_z1.csprojAssemblyReference.cache
+C:\LAB\epam_z1\epam_z1\obj\Debug\epam_z1.csproj.CoreCompileInputs.cache
+C:\LAB\epam_z1\epam_z1\obj\Debug\epam_z1.exe
+C:\LAB\epam_z1\epam_z1\obj\Debug\epam_z1.pdb
+C:\LAB\TEMA1\epam_z1\epam_z1\bin\Debug\epam_z1.exe.config
+C:\LAB\TEMA1\epam_z1\epam_z1\bin\Debug\epam_z1.exe
+C:\LAB\TEMA1\epam_z1\epam_z1\bin\Debug\epam_z1.pdb
+C:\LAB\TEMA1\epam_z1\epam_z1\obj\Debug\epam_z1.csprojAssemblyReference.cache
+C:\LAB\TEMA1\epam_z1\epam_z1\obj\Debug\epam_z1.csproj.CoreCompileInputs.cache
+C:\LAB\TEMA1\epam_z1\epam_z1\obj\Debug\epam_z1.exe
+C:\LAB\TEMA1\epam_z1\epam_z1\obj\Debug\epam_z1.pdb
